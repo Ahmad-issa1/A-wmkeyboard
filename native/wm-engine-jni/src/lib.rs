@@ -43,7 +43,7 @@ mod cjk;
 mod corrections;
 mod dict;
 mod fuzzy;
-mod gif;
+// mod gif;
 mod glide;
 mod guard;
 mod handles;
