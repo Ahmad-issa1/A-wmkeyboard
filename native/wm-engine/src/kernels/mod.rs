@@ -32,7 +32,7 @@ pub mod band;
 pub mod box_average;
 pub mod box_blur;
 pub mod dot;
-pub mod gif;
+// pub mod gif;
 pub mod sharpen;
 pub mod upscale;
 pub mod yuv;
