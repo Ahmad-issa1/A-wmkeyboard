@@ -1,4 +1,4 @@
-package com.wasimaster.wmkeyboard.app
+/* package com.wasimaster.wmkeyboard.app
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
@@ -80,3 +80,4 @@ internal fun OfflineGifPacksGroup() {
         }
     }
 }
+*/
